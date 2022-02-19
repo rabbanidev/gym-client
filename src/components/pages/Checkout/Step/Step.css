@@ -1,0 +1,32 @@
+.step h3 {
+	height: 50px;
+	width: 50px;
+	padding: 7px 10px 10px 10px;
+	border-radius: 50%;
+	background-color: #b3b3b3;
+	margin: 0 auto;
+}
+
+.step_active h3 {
+	background-color: #fcd842 !important;
+}
+.dot_right {
+	margin-right: -20px;
+}
+
+.dot_border {
+	width: 200px;
+	border-bottom: 2px dotted black;
+	margin-top: -40px;
+}
+.border_bottom {
+	width: 250px;
+	margin: 0 auto;
+	border-bottom: 3px solid rgb(10, 10, 10);
+}
+
+@media only screen and (max-width: 768px) {
+	.step_right {
+		margin-left: 5px;
+	}
+}

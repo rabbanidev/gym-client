@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title":"psycho training",
+        "image_link":"https://i.ibb.co/6sPQj9Q/01.png"
+    },
+    {
+        "id": 2,
+        "title":"self defence",
+        "image_link":"https://i.ibb.co/C2qVs4j/02.jpg"
+    },
+    {
+        "id": 3,
+        "title":" advance gym",
+        "image_link":"https://i.ibb.co/G3YzS4L/03.jpg"
+    },
+    {
+        "id": 4,
+        "title":"cardio training",
+        "image_link":"https://i.ibb.co/NZTD0ZF/4.jpg"
+    },
+    {
+        "id": 5,
+        "title":"strength training",
+        "image_link":"https://i.ibb.co/HBrF2Sn/05.jpg"
+    },
+    {
+        "id": 6,
+        "title":"women training",
+        "image_link":"https://i.ibb.co/vxL6sCg/06.png"
+    }
+]

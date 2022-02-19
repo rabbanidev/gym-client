@@ -1,0 +1,17 @@
+[
+	{
+		"id": 4,
+		"day": "TuesDay",
+		"time": "10.00 AM - 11.00 AM"
+	},
+	{
+		"id": 5,
+		"day": "Thursday",
+		"time": "6.00 PM - 6.00 PM"
+	},
+	{
+		"id": 6,
+		"day": "Saturday",
+		"time": "7.00 PM - 8.00 PM"
+	}
+]

@@ -1,0 +1,43 @@
+.coach_text_container {
+	padding-top: 50px;
+	padding-right: 200px;
+}
+.coach_title {
+	font-family: "Bebas Neue", cursive;
+	text-transform: uppercase;
+	color: #f1cc34;
+	font-size: 25px;
+}
+.coach_train {
+	font-family: "Bebas Neue", cursive;
+	text-transform: uppercase;
+	font-size: 60px;
+}
+
+.coaches_img img {
+	height: 600px;
+	width: 100%;
+}
+
+.trainer_text {
+	font-family: "Bebas Neue", cursive;
+	text-transform: uppercase;
+	font-size: 50px;
+}
+
+.tryout_text {
+	font-family: "Bebas Neue", cursive;
+	font-size: 40px;
+}
+
+.trainer_title {
+	font-family: "Bebas Neue", cursive;
+	font-size: 25px;
+}
+
+@media only screen and (max-width: 1200px) {
+	.coach_text_container {
+		padding-top: 50px;
+		padding-right: 50px;
+	}
+}

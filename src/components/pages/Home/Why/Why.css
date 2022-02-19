@@ -1,0 +1,21 @@
+.why_card {
+	height: 400px;
+	transition: 0.3s;
+	box-shadow: 0px 0px 17px 4px rgba(0, 0, 0, 0.28);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(0, 0, 0, 0.28);
+	-moz-box-shadow: 0px 0px 17px 4px rgba(0, 0, 0, 0.28);
+	border: 2px solid #ffffff;
+}
+
+.why_card:hover {
+	border: 2px solid #fcd842;
+}
+
+.why_card div {
+	margin-top: auto;
+}
+
+.why_image {
+	height: 100px;
+	margin: 40px auto;
+}

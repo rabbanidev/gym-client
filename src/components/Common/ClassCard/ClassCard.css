@@ -1,0 +1,58 @@
+.training_card a {
+	text-decoration: none;
+	color: black;
+}
+
+.training_img {
+	height: 500px;
+}
+
+.bg_yellow {
+	width: 400px;
+	padding: 20px 40px;
+	background-color: #fcd842;
+	padding-left: 0;
+	transition: 0.3s;
+}
+
+.bg_yellow:hover {
+	background-color: #dfbc33;
+}
+
+.bg_yellow h2 {
+	font-family: "Bebas Neue", cursive;
+	align-items: center;
+	padding-left: 40px;
+	margin-top: 3px;
+}
+
+.bg_yellow span {
+	align-items: center;
+	font-weight: 600;
+	margin-top: 3px;
+	font-size: 20px;
+}
+
+@media only screen and (max-width: 992px) {
+	.bg_yellow {
+		width: 300px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.bg_yellow {
+		width: 350px;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	.bg_yellow {
+		width: 300px;
+	}
+}
+
+@media only screen and (max-width: 340px) {
+	.bg_yellow {
+		width: 250px;
+	}
+}

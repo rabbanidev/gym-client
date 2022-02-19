@@ -1,0 +1,48 @@
+.div_contain {
+	padding: 15px;
+}
+.img_container {
+	position: relative;
+	width: 100%;
+}
+
+.image {
+	display: block;
+	width: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+.img_overlay {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #02020291;
+	overflow: hidden;
+	width: 100%;
+	height: 0;
+	transition: 0.5s ease;
+}
+
+.img_container:hover .img_overlay {
+	height: 100%;
+}
+
+.overlay_text {
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+	.div_contain {
+		padding: 0;
+	}
+}

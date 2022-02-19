@@ -1,0 +1,53 @@
+.span-x {
+	color: #fcd842;
+}
+
+.navbar-nav > li > a {
+	text-decoration: none;
+	color: #ffffff;
+	margin-left: 30px;
+}
+
+.activeBtn a {
+	color: #fcd842 !important;
+}
+
+.navbar-nav > li > a:hover {
+	color: #fcd842;
+}
+.navbar > .container-fluid {
+	padding: 0;
+}
+
+.navbar-toggler {
+	outline: none !important;
+}
+
+.navbar-toggler span {
+	color: #fcd842;
+}
+
+.navbar-light .navbar-toggler {
+	border: 2px solid #fcd842;
+	padding: 7px;
+}
+
+@media only screen and (max-width: 992px) {
+	.my_nav {
+		background-color: #030303b4;
+		padding: 10px 0;
+		border-radius: 5px;
+		border: 1px solid #fcd842;
+	}
+
+	.navbar-nav > li > a {
+		margin-left: 0px;
+	}
+	.navbar-nav > li {
+		margin: 7px 0;
+	}
+
+	.navbar-light .navbar-toggler {
+		padding: 4px;
+	}
+}

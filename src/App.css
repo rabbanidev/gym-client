@@ -1,0 +1,13 @@
+.App {
+	text-align: center;
+	outline: none !important;
+}
+
+.font_bebas {
+	font-family: "Bebas Neue", cursive;
+	letter-spacing: 2px;
+}
+
+.yellow {
+	color: #fcd842;
+}

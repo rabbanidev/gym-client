@@ -1,0 +1,18 @@
+.work-card {
+	max-height: 400px;
+	min-height: 400px;
+}
+.work-card .my_img {
+	min-height: 400px;
+	max-height: 400px;
+	object-fit: cover;
+	object-position: center center;
+}
+
+.card_img {
+	background: linear-gradient(
+		0deg,
+		rgba(12, 8, 22, 0.497),
+		rgba(12, 8, 22, 0.524)
+	);
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "Advance Plan",
+		"price": 140,
+		"bg_image": "https://i.ibb.co/Sr78jJg/01.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Basic Plan",
+		"price": 120,
+		"bg_image": "https://i.ibb.co/hgPQxh4/02.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Beginners",
+		"price": 90,
+		"bg_image": "https://i.ibb.co/J33pp6b/03.jpg"
+	}
+]

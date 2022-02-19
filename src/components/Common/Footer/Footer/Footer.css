@@ -1,0 +1,46 @@
+.footer {
+	background-color: #171426;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+.footer_link li {
+	list-style-type: none;
+	display: block;
+	color: #eeecec;
+	margin: 15px 0;
+}
+
+.footer_link li a {
+	text-decoration: none;
+	color: #eeecec;
+	transition: 0.3s;
+}
+
+.footer_link li a:hover {
+	padding-left: 3px;
+	color: #fcd842;
+}
+
+.footer_link .footer_img a {
+	margin: 0 7px;
+}
+
+.footer_link .footer_img a:hover {
+	padding: 0;
+}
+
+.footer_link .footer_img a img {
+	transition: 0.7s;
+}
+.footer_link .footer_img a img:hover {
+	-ms-transform: rotate(360deg);
+	transform: rotate(360deg);
+}
+
+.newsLetter_text {
+	color: #eeecec;
+}
+.copyright {
+	color: #3f3f3f;
+}
